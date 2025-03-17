@@ -1,4 +1,3 @@
 # ping_test
-ping test with python
-checking if network device is reachable
+ping test with python to check if network device is reachable
 
